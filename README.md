@@ -76,7 +76,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/GauravKapri/next-pfviz
 cd next-pfviz
 
 # Install dependencies
