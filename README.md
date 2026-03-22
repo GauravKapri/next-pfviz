@@ -7,6 +7,8 @@ An interactive web application for visualizing pathfinding and maze generation a
 ![React](https://img.shields.io/badge/React-19-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8)
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00c853?style=for-the-badge&logo=vercel&logoColor=white)](https://pathfinding-visualizer-gk.vercel.app/)
+
 ## Features
 
 ### Pathfinding Algorithms
