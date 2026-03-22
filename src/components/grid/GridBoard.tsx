@@ -63,7 +63,7 @@ export const GridBoard = () => {
   return (
     <div
       ref={containerRef}
-      className="h-full w-full overflow-hidden flex flex-col items-center justify-center outline-none"
+      className="grain h-full w-full overflow-hidden flex flex-col items-center justify-center outline-none"
       onMouseUp={handleGlobalUp}
       onMouseLeave={handleGlobalUp}
     >

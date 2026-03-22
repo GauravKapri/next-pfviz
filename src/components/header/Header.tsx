@@ -29,7 +29,7 @@ export const Header = () => {
   const meta = ALGO_META[graphAlgorithm];
 
   return (
-    <header className="shrink-0 border-b border-border bg-card/80 backdrop-blur-md px-4 h-14 flex items-center justify-between gap-4">
+    <header className="grain shrink-0 border-b border-border bg-card/80 backdrop-blur-md px-4 h-14 flex items-center justify-between gap-4">
       {/* Logo */}
       <div className="flex items-center gap-3 min-w-0">
         <Link
